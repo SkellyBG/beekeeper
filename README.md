@@ -5,7 +5,7 @@ This is a work-in-progress Hive engine, implementing the [Universal Hive Protoco
 
 | Command | Implemented |
 |:-------:|:-----------:|
-| `info`  |:x:|
+| `info`  |:white_check_mark:|
 | `newgame`|:x:|
 | `play`|:x:|
 | `pass`|:x:|
